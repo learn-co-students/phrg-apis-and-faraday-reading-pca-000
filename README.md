@@ -282,3 +282,4 @@ We've seen how to use Faraday to consume the Foursquare API from within our Rail
 ![winston happy](http://i.giphy.com/l2JIdnF6aJnAqzDgY.gif)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/apis-and-faraday-reading' title='APIs and Faraday'>APIs and Faraday</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG APIs and Faraday</p>
